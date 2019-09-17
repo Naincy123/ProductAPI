@@ -1,0 +1,14 @@
+C:\naincy_training\webapi\ProductApi\ProductApi.Infrastructure\bin\Debug\ProductApi.Infrastructure.dll.config
+C:\naincy_training\webapi\ProductApi\ProductApi.Infrastructure\bin\Debug\ProductApi.Infrastructure.dll
+C:\naincy_training\webapi\ProductApi\ProductApi.Infrastructure\bin\Debug\ProductApi.Infrastructure.pdb
+C:\naincy_training\webapi\ProductApi\ProductApi.Infrastructure\bin\Debug\EntityFramework.dll
+C:\naincy_training\webapi\ProductApi\ProductApi.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\naincy_training\webapi\ProductApi\ProductApi.Infrastructure\bin\Debug\ProjectApi.core.dll
+C:\naincy_training\webapi\ProductApi\ProductApi.Infrastructure\bin\Debug\ProjectApi.core.pdb
+C:\naincy_training\webapi\ProductApi\ProductApi.Infrastructure\bin\Debug\EntityFramework.xml
+C:\naincy_training\webapi\ProductApi\ProductApi.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\naincy_training\webapi\ProductApi\ProductApi.Infrastructure\obj\Debug\ProductApi.Infrastructure.csprojAssemblyReference.cache
+C:\naincy_training\webapi\ProductApi\ProductApi.Infrastructure\obj\Debug\ProductApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\naincy_training\webapi\ProductApi\ProductApi.Infrastructure\obj\Debug\ProductApi.Infrastructure.csproj.CopyComplete
+C:\naincy_training\webapi\ProductApi\ProductApi.Infrastructure\obj\Debug\ProductApi.Infrastructure.dll
+C:\naincy_training\webapi\ProductApi\ProductApi.Infrastructure\obj\Debug\ProductApi.Infrastructure.pdb

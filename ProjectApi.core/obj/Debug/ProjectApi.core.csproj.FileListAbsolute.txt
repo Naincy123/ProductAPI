@@ -1,0 +1,6 @@
+C:\naincy_training\webapi\ProductApi\ProjectApi.core\bin\Debug\ProjectApi.core.dll
+C:\naincy_training\webapi\ProductApi\ProjectApi.core\bin\Debug\ProjectApi.core.pdb
+C:\naincy_training\webapi\ProductApi\ProjectApi.core\obj\Debug\ProjectApi.core.csproj.CoreCompileInputs.cache
+C:\naincy_training\webapi\ProductApi\ProjectApi.core\obj\Debug\ProjectApi.core.dll
+C:\naincy_training\webapi\ProductApi\ProjectApi.core\obj\Debug\ProjectApi.core.pdb
+C:\naincy_training\webapi\ProductApi\ProjectApi.core\obj\Debug\ProjectApi.core.csprojAssemblyReference.cache
